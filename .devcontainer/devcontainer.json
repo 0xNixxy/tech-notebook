@@ -1,0 +1,20 @@
+{
+  "name": "Python 3.10, Material for Sphinx",
+  "forwardPorts": [
+    8000
+  ],
+  "image": "mcr.microsoft.com/devcontainers/python:3.10",
+  "postCreateCommand": "pip install --upgrade pip && pip install --user -r docs/requirements.txt",
+  "waitFor": "postCreateCommand",
+  "customizations": {
+    "vscode": {
+      "extensions": {
+        "ms-python.python",
+        "swyddfa.esbonio",
+        "trond-snekvik.simple-rst",
+        "streetsidesoftware.code-spell-checker",
+        "streetsidesoftware.code-spell-checker-british-english"
+      }
+    }
+  }
+}
