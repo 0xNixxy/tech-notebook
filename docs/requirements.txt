@@ -2,4 +2,4 @@ sphinx>=8.1
 sphinx-autobuild
 sphinx-copybutton
 sphinxcontrib-katex
-sphinx-material
+furo

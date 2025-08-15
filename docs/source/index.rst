@@ -1,17 +1,86 @@
-.. Uncle Nixxy's Lazy Guide to Security documentation master file, created by
-   sphinx-quickstart on Wed Feb 12 03:06:40 2025.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
-Introduction
-==============
-
-Want to beef up your IT security at home without spending too much time and
-money to do so? Let Uncle Nixxy show you using step by step guides on how to
-significantly improve your IT security posture with the least effort.
+Nixxy Tech Tips
+================================================================================
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Contents
 
-   browser
+   cybersecurity
+
+System Maintenance
+--------------------------------------------------------------------------------
+
+- Operating System Updates
+- Driver Management
+- Disk Cleanup & Optimization
+- Backup Strategies
+- Power & Performance Tweaks
+
+Cybersecurity Practices
+--------------------------------------------------------------------------------
+
+.. include:: cybersecurity.rst
+
+
+Networking & Connectivity
+--------------------------------------------------------------------------------
+
+- Home Network Setup
+- Router Configuration & Security
+- VPN Usage
+- Port Forwarding & NAT
+- Network Monitoring Tools
+
+Command Line & Scripting
+--------------------------------------------------------------------------------
+
+- Bash / PowerShell Essentials
+- Useful Aliases & Functions
+- Automation Scripts
+- Cron Jobs / Task Scheduler
+- Package Managers (e.g., Chocolatey, Homebrew)
+
+Software & Tools
+--------------------------------------------------------------------------------
+
+- Essential Utilities
+- Productivity Enhancers
+- System Monitoring Tools
+- File Management & Search
+- Virtualization (e.g., VirtualBox, WSL)
+
+Troubleshooting & Diagnostics
+--------------------------------------------------------------------------------
+
+- Common Error Fixes
+- Log File Analysis
+- Boot Issues
+- Hardware Diagnostics
+- Recovery Tools
+
+Privacy & Data Protection
+--------------------------------------------------------------------------------
+
+- Data Minimization Techniques
+- Secure File Deletion
+- Metadata Scrubbing
+- Browser Privacy Settings
+- Cloud Storage Security
+
+Tech Tips & Power User Hacks
+--------------------------------------------------------------------------------
+
+- Keyboard Shortcuts
+- Registry Tweaks
+- Hidden Features & Easter Eggs
+- Customizing UI/UX
+- App Integrations & Workflows
+
+Documentation & Notes
+--------------------------------------------------------------------------------
+
+- Templates for Issue Tracking
+- Change Logs
+- Setup Guides
+- Reference Links
+- Personal Observations
